@@ -1,4 +1,4 @@
-# Connect-Four- // 3/11/17
+# Connect Four // 3/11/17
 Connect Four
 
 Description:
