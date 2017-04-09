@@ -1,4 +1,4 @@
-# Connect-Four-
+# Connect-Four- // 3/11/17
 Connect Four
 
 Description:
@@ -16,3 +16,4 @@ How to play the game:
 This is a console version of the Connect Four. User will be prompt to enter the column to place his/her disk.
 The index for user input starts at 0. 
 Remember that all rules of Connect Four applies to this game.
+3.
